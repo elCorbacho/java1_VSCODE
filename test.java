@@ -17,5 +17,6 @@ public class test {
         resultado = suma / 3;
         System.out.println("La suma de los números es: " + suma);
     }
-
 }
+
+
